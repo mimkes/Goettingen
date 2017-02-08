@@ -22,6 +22,9 @@ In addition to the open discussions we also aim to talk about specific topics at
 
 Each HackyHour has an individual Etherpad listed above, these are also all collected in a [masterpad](http://etherpad.gwdg.de/p/HackyHourGoettingen).
 
+# Contact
+Join our [mailing list](https://listserv.gwdg.de/mailman/listinfo/hackyhour)! 
+
 # Inspiration
 This project is inspired by [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) and the [R Study Group](http://minisciencegirl.github.io/studyGroup/). We are affiliated with the [HackyHour Würzburg](https://hackyhour.github.io/Wuerzburg/) and are following their shining example. We are both loosely organized under the [HackyHour organization](https://hackyhour.github.io/).
 
