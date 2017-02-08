@@ -1,5 +1,5 @@
 # About
-Come to talk about **science** in a social environment.
+Come to talk about **tools for your research** in a social environment.
 
 If you want to know how computational tools and code can improve your science or you just want to meet "open scienc-y" people: join us. Especially if you're stuck on a computational problem in your research feel free to bring it along, we might be able to help (or at least point you in the right direction).
 
